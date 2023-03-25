@@ -46,7 +46,7 @@ export const Items =[
     },
     {
         id:3,
-        category:"accesories",
+        category:"accesoriy",
         productName:"",
         productPrice:3999,
         description:"Something3",
@@ -62,7 +62,7 @@ export const Items =[
     },
     {
         id:4,
-        category:"accesories",
+        category:"accesoriy",
         productName:"",
         productPrice:3999,
         description:"Something4",
